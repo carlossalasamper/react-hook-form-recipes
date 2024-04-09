@@ -1,0 +1,25 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.1.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-hook-form": "^7.45.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@rollup/plugin-alias": "^5.0.0",
+    "@types/react": "^18.2.25",
+    "@types/react-dom": "~18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "babel-plugin-transform-typescript-metadata": "^0.3.2",
+    "typescript": "~5.1.6",
+    "vite": "^4.4.7",
+    "vite-plugin-checker": "^0.6.1"
+  }
+}
